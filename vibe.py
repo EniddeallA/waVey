@@ -17,7 +17,7 @@ class textToWave:
         self.wave = self.outputPath + self.text +'.png'
     
     def textToAudioToWave(self):
-        tts = gTTS(self.text, self.lang)
+        tts = gTTS(self.text, lang=self.lang)
         tts.save(self.audio)
         audio_files = glob(self.audio)
         audio, sfreq = lr.load(audio_files[0])
