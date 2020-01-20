@@ -17,7 +17,7 @@ First I use the [gTTS](https://pypi.org/project/gTTS/) Library to interface with
    2. Get to the 'vibe.py' file.
    3. Edit the parameters Like this :
    
-   ![alt text](https://github.com/EniddeallA/waVey/Screen%Shot%2020-01-20%at%6.32.08%AM.png)
+   ![alt text](https://github.com/EniddeallA/waVey/blob/master/Screen%20Shot%202020-01-20%20at%206.32.08%20AM.png)
    
    4. Run the program :
    
