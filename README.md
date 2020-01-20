@@ -1,4 +1,4 @@
-# VibeCheck
+# waVey
 
 This is a fun side project about converting texts to sound waves using python.
 
