@@ -23,4 +23,7 @@ First I use the [gTTS](https://pypi.org/project/gTTS/) Library to interface with
    
     python vibe.py 
    5. You'll find The sound file(.mp3) in the [sounds](https://github.com/EniddeallA/waVey/tree/master/sounds) folder and the sound waves plot(.png) in the [plots](https://github.com/EniddeallA/waVey/tree/master/plots) folder.
+   
+  ![result](https://github.com/EniddeallA/waVey/blob/master/plots/Hello%20World!_white_black.png)
+  
    6. Enjoy playing around with it for better aesthetics 😆
