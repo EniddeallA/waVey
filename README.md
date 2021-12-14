@@ -4,7 +4,7 @@ This is a fun side project about converting texts to sound waves using python.
 
 #### How does it work ?
 
-First I use the [gTTS](https://pypi.org/project/gTTS/) Library to interface with Google Translate's text-to-speech API that way I can extract the audio and save it to an mp3 file, then I use [LibROSA](https://librosa.github.io/librosa/) package to extract the waveform and the sampling rate / frequency, the I use [matplotlib](https://matplotlib.org/) library to generate the plot of the sound wave in terms of time and frequency.
+First I use the [gTTS](https://pypi.org/project/gTTS/) Library to interface with Google Translate's text-to-speech API that way I can extract the audio and save it to an mp3 file, then I use [LibROSA](https://librosa.github.io/librosa/) package to extract the waveform and the sampling rate / frequency, then I use [matplotlib](https://matplotlib.org/) library to generate the plot of the sound wave in terms of time and frequency.
 
 #### Additional / Fun tweaks :
       ➕You can use any language supported by Google Translate
